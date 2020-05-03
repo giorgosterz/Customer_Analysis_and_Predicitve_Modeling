@@ -14,7 +14,7 @@ We use a sample of 10,000 customers of a bank and their personal credit-related 
 ### Our approach :
 We will use Tableau to create a number of graphical representions of our data that will hand us valuable insight about our customers and the specific dataset. These representations will include distributions, mappings and rigorous A/B tests designed to give us a better understanding of our problem and shift our focus to the variables that need more attention.
 
-After we have our visual analysis, we will create a forecsting model which will try to predict whether a customer is going to exit the bank or not. We will use this opportunity to test a different set of probabilistic algorithms such as Naive Bayes and Logistic Regression and compare the results with the prediction of an Artificial Neural Nework.
+After we have our visual analysis, we will create a forecasting model which will try to predict whether a customer is going to exit the bank or not. We will use this opportunity to test a different set of probabilistic algorithms such as Naive Bayes and Logistic Regression and compare the results with the prediction of an Artificial Neural Nework.
 
 Let's jump to the [Jupyter Notebook](https://github.com/giorgosterz/Tech_Stocks_Analysis_midst_COVID-19_crisis/blob/master/Tech%20Stocks%20Analysis.ipynb/) to get started!
 
