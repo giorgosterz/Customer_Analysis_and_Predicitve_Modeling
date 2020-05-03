@@ -24,7 +24,7 @@ After we obtain the final results from our -traditional- machine learning model 
 
 
 
-Let's jump to the [Jupyter Notebook](https://github.com/giorgosterz/Customer_Analaysis_and_Predicitve_Modeling/blob/master/Churn%20Problem%20Visualization.ipynb) to get started!
+Let's jump to the [Jupyter Notebook](https://github.com/giorgosterz/Customer_Analysis_and_Predicitve_Modeling/blob/master/Churn%20Problem%20notebook%20.ipynb) to get started!
 
 *Sources*: 
 - *https://www.ngdata.com/what-is-customer-churn/* 
