@@ -18,7 +18,7 @@ After we have our visual analysis, we will create a forecasting model which will
 
 ### Machine learning VS Deep learning
 
-After we obtain the final results from our -traditional- machine learning model we will switch to deep learning and compare the results with the prediction of an Artificial Neural Nework. In theory Machine Learning is a general category which encompasses Deep Learning, but we will use the "Machine Learning vs Deep learning" convention to describe the difference between the well known traditional algorithms and the newer ones which are based on neurons and try to immitate the functionality of human brain. 
+After we obtain the final results from our -traditional- machine learning model we will switch to deep learning and compare the results with the prediction of an Artificial Neural Network. In theory Machine Learning is a general category which encompasses Deep Learning, but we will use the "Machine Learning vs Deep learning" convention to describe the difference between the well known traditional algorithms and the newer ones which are based on neurons and try to imitate the functionality of human brain.
 
 <img src="Screenshots/ml_vs_dl.png" width='900' height='400'/>
 
