@@ -12,7 +12,7 @@ There are a multitude of issues that can lead customers to leave a business, but
 We use a sample of 10,000 customers of a bank and their personal credit-related data to create a demographic centric model which predicts which of the customers are at highest risk of leaving the bank. The data is fictional since datasets containing this kind of information are prohibited for public usage. In our scenario, we obtained the data by monitoring the customers for the past 6 months and recorded whether they exited or not.
 
 ### Our approach :
-We will use Tableau to create a number of graphical representions of our data that will hand us valuable insight about our customers and the specific dataset. These representations will include distributions, mappings and rigorous A/B tests designed to give us a better understanding of our problem and shift our focus to the variables that need more attention.
+We will use Tableau to create a number of graphical representations of our data that will hand us valuable insight about our customers and the specific dataset. These representations will include distributions, mappings and rigorous A/B tests designed to give us a better understanding of our problem and shift our focus to the variables that need more attention.
 
 After we have our visual analysis, we will create a forecasting model which will try to predict whether a customer is going to exit the bank or not. We will use this opportunity to test a different set of algorithms.
 
