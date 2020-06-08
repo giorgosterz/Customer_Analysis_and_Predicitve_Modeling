@@ -1,9 +1,10 @@
+<img src="Screenshots/REAME_churn.png" width='900' height='400'/>
+
 # Customer Analysis and Exit Prediction
 
 ### What is a customer churn problem?
 Simply put, customer churn occurs when customers or subscribers stop doing business with a company or service. Also known as customer attrition, customer churn is a critical metric because it is much less expensive to retain existing customers than it is to acquire new customers – earning business from new customers means working leads all the way through the sales funnel, utilizing your marketing and sales resources throughout the process. Customer retention, on the other hand, is generally more cost-effective as you’ve already earned the trust and loyalty of existing customers.
 
-<img src="Screenshots/REAME_churn.png" width='900' height='400'/>
 
 ### What causes customer churn in banking?
 There are a multitude of issues that can lead customers to leave a business, but there are a few that are considered to be the leading causes of customer churn. The first is poor customer service. One study found that nearly nine out of ten customers have abandoned a business due to a poor experience. Other reasons may include the lack of availability of latest technology (e.g. online banking, bank application), problems related to the actual products and services offered such as accounts which offer too low interest rates, and last but not least location itself can cause customers leaving the bank.
